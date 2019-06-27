@@ -37,10 +37,10 @@ Use SSH to connect the raspberry pi, <br>
 And Ensure that the raspberry pi is connected to the Internet before executing the following commands:
 -----------------------------------------------------------------------------------------------------
 
-```sudo rm -rf LCD-show```<br>
-```git clone https://github.com/goodtft/LCD-show.git```<br>
-```chmod -R 755 LCD-show```<br>
-```cd LCD-show/```<br>
+```sudo rm -rf LCDshow_rasp```<br>
+```git clone https://github.com/Myint-Aung/LCDshow_rasp.git```<br>
+```chmod -R 755 LCDshow_rasp```<br>
+```cd LCDshow_rasp/```<br>
   
 3.)Step3, According to your LCD's type, excute:
 ====================================================
@@ -78,3 +78,6 @@ Wait a few minutes,the system will restart automaticall , enjoy with your LCD.
 The LCD-show.tar.gz also can be download from:
 http://www.lcdwiki.com/RaspberryPi-LCD-Driver
 <br><br>
+
+
+#credit from original uploader
